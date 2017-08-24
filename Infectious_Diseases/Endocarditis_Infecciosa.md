@@ -1,10 +1,9 @@
 # Endocarditis infecciosa
 ## Infectious Diseases
-### Created on August 23 - 2017 (Completar medscape)
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Created on August 23 - 2017 (Completar medscape)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 **Keys**
-
 ```
 * Infeccion de la superficie del corazon que puede incluir una o mas valvulas, las paredes o los septos.
 * Se distinguen tres tipos: en valvula nativa, en valvula prostetica o en usuario de drogas IV.
@@ -41,7 +40,7 @@
 	2. Fiebre mayor a 38.
 	3. Fenomenos embolicos (infartos pulmonares, aneurisma micotico, hemorragia intracraneal o retineales, Janeway).
 	4. Fenomenos inmunologicos (glomerulonefritis, vasculitis, Osler, Roth, FR).
-	
+
 - Se debera sacar 3 a 5 sets de hemocultivo del paciente con 60 a 90 minutos de diferencia.
 - La sintomatologia suele ser vaga, siendo Fiebre y escalosfrios los sintomas mas comunes. Otros en subaguda: anorexia, perdida de peso, simil influenza, polimialgia, dolor pleuritico, dolor abdominal y vomitos.
 
