@@ -1,38 +1,3 @@
-- [x] Septic arthritis
-- [x] Hepatitis B virus
-	- [x] Vaccine
-- [x] Hepatitis C virus
-- [x] Hepatitis A virus
-	- [x] Vaccine
-- [x] Rash and fever
-	- [x] Scarlet fever
-	- [x] Measles (Rubella)
-	- [x] Rubeola
-	- [ ] Staph
-	- [ ] 5th and 6th
-	- [x] Chickenpox
-	- [ ] Mouth-hand-foot disease
-	- [x] Kawasaki
-	- [ ] Gianotti-Crosti syndrome
-- [x] Surgical-site infection
-- [x] Upper respiratory tract infection
-	- [x] Pharyngitis
-	- [x] Acute median otitis
-	- [x] Sinusitis
-- [x] HIV
-- [x] Dengue
-- [x] Hantavirus
-- [ ] Chynkunguya
-- [x] Zika
-- [x] Argentina's hemorrhagic fever
-- [ ] Influenza
-- [x] Fever and neutrophenia
-- [x] Meningitis
-- [x] Chagas' disease
-- [x] Toxoplasmosis
-- [x] Leishmania
-- [x] Micosis
-
 # General notes
 
 [1] Solo son erradicables aquellas enfermedades con reservorio humano, son estables y es posible realizar una vacuna. i.e.: sarampion, polio, rubeola y varicela.
@@ -52,7 +17,7 @@
 - Bacilos gram negativos: *Bacteroides* y *Fusobacterium*.
 - Bacilos gram positivos: *Clostridium*, *Actinomices*, *Lactobacillus*, *Propionibacterium*.
 - El tratamiento es con debridamiento quirurgico. El tratamiento empirico por encima del diafragma es **Ampicilina-Sulbactam** o **Clindamicina** (Cubre anaerobios gram negativos, especialmente Strep *anginosus* que no cubre metronidazol). **Vancomicina** tambien es util para gram positivos anaerobios (clostridium, P *acnes*).
-- NO SE RECOMIENDA doble cobertura para anaerobios, es decir: 
+- NO SE RECOMIENDA doble cobertura para anaerobios, es decir:
 	- Metronidazol + Carbapenems (Meropenem o Ertapenem).
 	- Metronidazol + B/Basa (Ampisulba, Pipertazo, Amoxiclav).
 - Por si solos todos tienen excelente cobertura contra anaerobios.
@@ -90,7 +55,10 @@ Casos moderados: dar **metronidazol** por PO o IV.
 	* Mediatas: anafilaxia, edema laringeo, sibilancias, angioedema.
 	* Tardias (>72hs): rash, destruccion de RBC, WBC, PLQ.
 	* SJS (dermatitis exfoliativa que afecta mucosa).
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+[11]  Dosis de corticoides que causan inmunosupresion son dosis de mas de 2 mg/Kg o 20mg/Kg dias por 14 dias.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 # Antibioticos
 
@@ -108,29 +76,29 @@ Casos moderados: dar **metronidazol** por PO o IV.
 
 [7] **Colistin**: Es una *polimixina*, sirve contra *Pseudomonas* y *Acinetobacter* (infecciones intrahospitalarias), funciona tambien para cepas resistentes.
 	- **EAx**: Insuficiencia renal, bloqueo neuromuscular y neurotoxicidad.
-	
+
 [8] **Daptomicina**: Es un *lipopeptido*, sirve contra TODOS los Staph y Strep (incluido MRSA y VRE). NO SIRVE contra gram negativos.
 	- Utilizar si falla Vancomicina (descompensacion clinca, no negativiza bacteremia a los 7 dias o CIM > 2 mcg/ml)
 	- **EAx**: Miopatia (Ck x10 + ASx / Ck x5 + Sx) y Neumonia eosinofilica.
-	
+
 [9] **Fosfomicina**: Es un ABx sintetico, bactericida contra gram negativos y positivos incluido E. *coli*, Klebsiella, Proteus o Pseudomonas. NO funciona contra Acinetobacter.
 	- Se utiliza en UTI por VRE o en pacientes con UTI y alergia a la mayoria de los ABx.
-	
+
 [10] **Linezolid**: Util contra VISA, VRSA, MRSA, alergia a vancomicina o falla de vancomicina.
 	- **EAx**: Aplasia medular, neuritis optica, polineuropatia periferica irreversible.
-	
+
 [11] **Tigeciclina**: Es una tetraciclina. Actua sobre todos los Staph (MRSA), Strep (VRE), anaerobios, proteus y pseudomonas.
 	- Esta aprobado por la FDA para infecciones de piel o intraabdominales.
-	
+
 [12] **TMP-SMX**: Es una sulfonamida, sirve contra enterobacterias, actinobacter, nocardia, listeria, Pneumocystis *jirovensii*, Staph y algunos Strep.
 	- Se usa en UTI, SSTI por *aureus*, PCP, nocardia y listeria.
 	- **EAx**: Hipersensibilidad, molestias gastricas, aumento de Cr, hiperkalemia y mielosupresion.
-	
+
 [13] **Anfotericina B**: Puede ser liposomal o deoxicolato (esta ultima se utiliza en insuficiencia renal de ultimo estadio). Sirve para candida, aspergilus, fosarium y criptococos.
 	- Es primera linea en candidas que afectan ojos, endocarditis, SNC, meningitis por criptococos y zigomicosis.
 	**EAx**: Fiebre, escalosfrios, rigor, hipotension, nefrotoxico y toxicidad pulmonar.
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 # Exantematicas
 
@@ -300,12 +268,12 @@ La mucosa faringea se encuentra roja brillantes y hay petequias en el paralar bl
 
 [1] Estadio febril agudo: Comienza abruptamente, la fiebre es alta y no responde a antipireticos ni a ABx. Se evidencian cambios mucocutaneos y en nodulos linfaticos.
 [2] Fase subaguda: Comienza con el fin de la fiebre, aparecen el clasico signo de descamasion de los dedos, trombositosis > 1 millon y los aneurismas. Es el momento de mayor riesgo de muerte.
-[3] Fase convalecente: Todo comienza a resolver y volver a niveles basales. Las lineas de Beau se vuelven aparentes. Los aneurismas pequeños comienzan a resolver pero los grandes pueden expandirse. 
+[3] Fase convalecente: Todo comienza a resolver y volver a niveles basales. Las lineas de Beau se vuelven aparentes. Los aneurismas pequeños comienzan a resolver pero los grandes pueden expandirse.
 [4] Fase cronica
 
 **Sx**: Se presenta con conjuntivitis no exudativa, quelitis angular en la comisura de los labios y rash nodular. Afecta a niños menores de 5 años.
 
-**Dx**: (**Diagnostico por exclusion**) El diagnostico es clinico. El score debe incluir fiebre por MAS de 5 dias que no responde a antipireticos y 4 de 5. 
+**Dx**: (**Diagnostico por exclusion**) El diagnostico es clinico. El score debe incluir fiebre por MAS de 5 dias que no responde a antipireticos y 4 de 5.
 
 [1] Conjuntivitis bilateral no exudativa o uveitis anterior.
 [2] Rash polimorfo NO pruriginoso.
@@ -328,7 +296,7 @@ La mucosa faringea se encuentra roja brillantes y hay petequias en el paralar bl
 - Desarrollan complicaciones el 25% de los pacientes no tratados. Pueden terminar requiriendo CABG.
 - Si desarrollan aneurismas mantener la AAS hasta que se vayan.
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 # Infecciones respiratorias altas
 
@@ -419,7 +387,7 @@ La mucosa faringea se encuentra roja brillantes y hay petequias en el paralar bl
 
 **Profilaxis**: En casos de recurrencia no utilizar ABx, realizar repermeabilizacion o correccion del tabique.
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 # Fiebre y neutropenia
 
@@ -482,71 +450,7 @@ La mucosa faringea se encuentra roja brillantes y hay petequias en el paralar bl
 
 **Profilaxis**: Solo se realiza en pacientes de alto riesgo. Se utiliza **Ciprofloxacina** o **Levofloxacina** (Protegen contra BGN). Una alternativa es G-CSF (factor de crecimiento de colonias granulociticas).
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-
-# Meningitis
-
-**Keys**
-
-- Infeccion ocurre en el espacio subaracnoideo, produce alteracion en el mecanismo de autoregulacionc cerebral (Monro-Kelly).
-- Afecta la aracnoides y piamadre.
-- Las bacterias son mas agresivas porque generan mas inflamacion.
-- La glucosa normal del LCR es 60% del valor plasmatico normal.
-
-**Causa**: Meningococo, **neumococo** y H. *influenzae b*. La causa mas comun en adultos es Strep *neumoniae* (#1) y Neisseria *meningitis* (#2). La transmision es por via respiratoria.
-
-- Son suceptibles aquellos que tienen alterados el sistema de opsonizacion (Anticuerpos y Sistema del complemento): esplenectomizados, esplenomegalia por cirrosis, sindrome nefrotico, hipogammaglobulinemias, deficit te complemento (angioedema o lupus).
-- Meningococo se asocia mas a meningitis fulminante.
-- En neonatos la etiologia mas frecuente es Strep *grupo B* (*agalactiae*) y E. coli.
-
-**Evolucion**: Comienza con colonizacion de la via aerea superior, ocurre la primera replicacion bacteriana. Luego se produce infeccion del SNC por via local o hematogena y se produce segunda replicacion. Se produce edema, aumento de PIC, HTEc, isquemia cerebral difusa e injuria.
-
-- Puede ser fulminante si la muerte ocurre en menos de un dia. Las subagudas ocurren durante 1 semana.
-- Si es cronica, dura mas de 1 mes y se debe tener una fuerte sospecha de TBC.
-- El daño neurologico mas comun es en el area del hipocampo.
-
-**Sx**: Fiebre, rigidez nucal, cefalea, vomitos en chorro, deterioro del sensorio, Kerning, Brudzinski, fotofobia y fonofobia. Posteriormente signos de foco y papiledema.
-
-- Buscar deficit focal que contraindique la puncion lumbar.
-- La posicion antalgica es en gatillo de fusil o opistotono.
-- Realizar un fondo de ojo PREVIO a la puncion lumbar. Puede optarse tambien por imagenes si es posible.
-
-- Pacientes con **meningococo** pueden desarrollar sepsis, insuficiencia adrenal e hiponatremia.
-
-**Dx**: Clinica y puncion lumbar. El LCR se muestra bajo en glucosa, aumento de proteinas y de PMN. Ademas del fisicoquimico se realiza un gram directo, tinta china, cultivo y aglutinacion con latex.
-
-- LCR con pleocitosis (100 - 10.000/mm3); proteinorraquia (50 mg/dl o mas de 1 g/L); glucosa disminuida (menor a 40% del plasma) y aumento en la presion de salida.
-
-**Tx**: Siempre IV y dentro de las primeras dos horas. No esperar la puncion lumbar.
-
-- Tratamiento empirico
-
-[1] 15-50yr (meningo-, neumococo): **Vancomicina** + **Ceftriaxona**
-[2] Mayor 50yr (neumo-, meningo-, listeria y BGN): **Vancomicina** + **Ceftriaxona** + **Ampicilina**.
-
-- Corticoides (*Dexametasona*) solo sirven en fulminantes y antes de los ABx. Son mandatorios en meningitis por TBC y H. *influenzae B*.
-
-**ABx**: Vancomicina solo ingresa al espacio subaracnoideo con inflamacion.
-
-- Si sensible, **Penicilina G** cubre neumococo y meningococo.
-
-**Prevencion**: Meningococos requerira AISLAMIENTO respiratorio.
-
-- Se considera *contacto cercano* a mas de 8 horas a menos de 1 metro dentro de la semana del diagnostico.
-- Se realiza **quimioprofilaxis** INCLUSO si tienen la vacuna. Puede darse dentro de las 2 semanas del contacto.
-
-[1] Rifampin
-[2] Ciprofloxacina (solo en adultos)
-[3] Ceftriaxona
-
-- La vacuna para meningococo puede ser:
-
-[1] **Conjugada**: Da inmunidad por ams tiempo, produce descolonizacion nasofaringea, da inmunidad de rebaño, sirve para refuerzo.
-[2] **Polisacarida**: No da inmunidad T, solo B y dura 1 a 3 años. Se da en grupos de riesgo: Dormitorios, microbiologos, outbreal, asplenicos, deficiencia de complemento, viajeros. No sirve para refuerzo.
-
-- Ninguna da inmunidad para meningococo B.
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 # HIV
 
@@ -584,7 +488,7 @@ La mucosa faringea se encuentra roja brillantes y hay petequias en el paralar bl
 - PI + NNRTi + NRTi
 
 - NNRTi mas comun: Efevirenz
-- Combinacion mas comun de NRTi: 
+- Combinacion mas comun de NRTi:
 
 [1](Efevirenz + Tenofovir - Emtricitabina): Mejor tolerado.
 [2](Efevirenz + Zidovudina - Lamivudina): Util en el embarazo, es uno de los esquemas mas optimos.
@@ -611,7 +515,7 @@ La mucosa faringea se encuentra roja brillantes y hay petequias en el paralar bl
 
 - Realizar follow-up con ELISA en el expuesto, tambien buscar carga viral.
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 # Hepatitis viral
 
@@ -657,7 +561,7 @@ La mucosa faringea se encuentra roja brillantes y hay petequias en el paralar bl
 
 - La prgresion a la cirrosis o al CA es proporcional a los niveles de carga viral y su persistencia en el tiempo.
 
-**Sx**: La fase aguda suele ser asintomatica. 
+**Sx**: La fase aguda suele ser asintomatica.
 
 - Las formas fulminantes son raras y solo ocurren en coinfeccion con HDV
 - **Cronicidad**: aparece hepatograma alterado, serologia persistente por mas de  meses y biopsia hepatica alterada.
@@ -692,7 +596,7 @@ La mucosa faringea se encuentra roja brillantes y hay petequias en el paralar bl
 - En argentina se vacunan a TODOS.
 - No vacunar embarazadas; realizar screening en la visita prenatal.
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 # Infeccion del sitio quirurgico
 
@@ -727,7 +631,7 @@ La mucosa faringea se encuentra roja brillantes y hay petequias en el paralar bl
 **Prevencion**: Medidas que disminuyen la incidencia.
 
 - Preoperatorio: control de DBT (glucosa menos de 180 mg/dl), obesidad, desnutricion, disminuir uso de corticoides, TBQ, tratamiento de infecciones a distancia, minimizar la estadia preoperatoria.
-	
+
 	+ Chequear vacuna contra el tetanos. Buscar focos a distancia.
 	+ En cirugia urologia siempre realizar urocultivo.
 	+ Pacientes deben realizar baño prequirurgico la noche anterior y dos horas antes. Se realiza con clorexidina jabonosa. Solo afecta la flora transitoria.
@@ -741,7 +645,7 @@ La mucosa faringea se encuentra roja brillantes y hay petequias en el paralar bl
 - Area quirurgica: Debe realizarse un lavado de manos de mas de 2 minutos de duracion y la extension es hasta los pliegues de codo. Se lava con clorexidina o yodopovidona.
 - El agente antiseptico que se utiliza para limpiar al paciente es clorexidina alcohoolica, yodopovidona en solucion o alcohol al 70%. Se aplica con torunda.
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 # Tecnica lavado manos quirurgica
 
@@ -752,7 +656,7 @@ La mucosa faringea se encuentra roja brillantes y hay petequias en el paralar bl
 5. Enjuague de manos en una sola direccion, desde la yema hasta los codos.
 6. Secar con toalla esteril.
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 # Infecciones emergentes
 
@@ -795,7 +699,7 @@ La mucosa faringea se encuentra roja brillantes y hay petequias en el paralar bl
 
 **Sx**: Fiebre subita y bien clara, es alta y dura 4 - 7 dias. Acompaña cefalea retroocular, mialgias, artralgias y rash muy pruriginoso.
 
-- En orden de frecuencia, los sindromes de presentacion son 
+- En orden de frecuencia, los sindromes de presentacion son
 
 [1] Asintomatico.
 [2] Sindrome febril por dengue (Simil gripe).
@@ -814,7 +718,7 @@ La mucosa faringea se encuentra roja brillantes y hay petequias en el paralar bl
 
 **Cx**: puede producir derrame capilar, trombocitopenia y hemorragia. Puede progresar a shock.
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 # Infecciones por roedores
 
@@ -897,7 +801,7 @@ La mucosa faringea se encuentra roja brillantes y hay petequias en el paralar bl
 
 - Pacientes requeriran AISLAMIENTO de GOTA y CONTACTO.
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 # Parasitosis
 
@@ -1012,117 +916,10 @@ La mucosa faringea se encuentra roja brillantes y hay petequias en el paralar bl
 - Metodo de cultivo es Novy-McNeal-Nicolle (NNN).
 - La serologia se recomienda en las formas VISCERALES, no en cutanea ni en mucocutanea.
 
-**Tx**: Glucantime (realizar EKG antes y despues) o Pentostam. 
+**Tx**: Glucantime (realizar EKG antes y despues) o Pentostam.
 
 - Aprobado por la FDA: miltiefosina.
 - Farmaco de 2da eleccion es Anfotericina B.
 - Antimoniato de Meglumina.
 
 **FwUp**: La intradermorreaccion de montenegro puede usarse como seguimiento para los casos de leishmania visceral.
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-
-# Micosis profundas y sistemicas
-
-### Esporotricosis
-
-**Causa**: Hongo dimorfico *Spothrix schenckii*. El ingreso es por via transcutanea, heridas que ocurren en tierra, restos vegetales, espinas de rosa o por contacto con forrajes.
-
-**Evolucion**: Enfermedad benigna y autolimitada en la mayoria de los casos. Rara vez disemina por via hematogena.
-
-**Sx**: La forma mas frecuente de resentacion es una lesion fija en la puel y linfangitis nodular con una lesion nodular en el sitio de ingreso que reblandece y ulcera seguido por multiples lesiones nodulares lineales que siguen el trayecto del vaso linfatico. Comunmente en miembros inferiores.
-
-- Otras formas son viscerales u oseteoarticulares.
-- La presentacion es un sindrome *chancriforme*.
-
-**Dx**: con aislamiento de la levadura en el sitio de herida y estudio micologico por observacion directa.
-
-- La muestra puede sacarse biopsiando un nodulo cerrado.
-- La prueba cutanea con esporotriquina no da mucha informacion.
-
-**Tx**: Yoduro de potasio por via PO.
-
-### Paracoccidioidomicosis (Timon, Micky Mouse)
-
-**Keys**
-
-- Es una micosis sistemica, que afecta desde mexico hasta el paralelo 34.
-- En Argentina afecta Chaco, formosa, corrientes, entre rios y santa fe.
-
-**Causa**: Paracoccidio *brasiliensis*. La transmision es por via inhalatoria.
-
-**Evolucion**: La mayoria son infecciones leves y asintomaticas. Puede ser grave en el inmunocomprometido. Ingresa por via inhalatoria, se desarrolla en linfaticos y produce fungemia asintomatica. Puede dejar focos en otros organos.
-
-- La infeccion es controlada por la inmunidad adaptativa, tarda de 2 a 3 semanas en actuar.
-- La infeccion controlada deja **granulomas**.
-- La infeccion cronica produce un deterioro progresivo que luego de unos años puede terminar en muerte.
-
-**Sx**: La clinica mas comun es la asintomatica. Todos los que viven en la region alguna vez la han padecido y tienen intradermorreacciones positivas.
-
-- Asintomaticos solo pueden tener un nodulo pulmonar.
-- Formas cronicas ocurren en trabajadores rurales y se asocian a TBQ, OH y desnutricion.
-- Clinica de la cronica: tendra ulceras diseminadas, especialmente a nivel orofaringeo, laringeo, pulmones y suprarrenales. La afeccion puede ser moderada o severa.
-- Pueden existir lesiones a nivel del SNC.
-
-**Dx**: Observacion directa en preparado fresco micologico. Tiene una forma muy caracteristica de **rueda de timon**. Puede cultivarse en **cultivo Sabouraud** con antibioticos.
-
-- Estudios indirectos son con Ac especificos y ELISA.
-
-**Tx**: El tratamiento a eleccion es **ITRACONAZOL** por 6 meses.
-
-- Otras alternativas son Anfotericina B y Ketaconazol, esta ultima en desuso por sus efectos adversos.
-- TMP-SMX puede tambien ser usado.
-
-### Coccidioidomicosis
-
-**Keys**
-
-- Afecta las regiones del centro oeste del pais: Tucuman, Santiago del estero, Neuquen, Rio negro y Catamarca.
-
-**Causa**: Por la levadura Coccidioides *posadasii*, vive en la tierra. El ingreso es por via inhalatoria.
-
-**Evolucion**: Suele ser una enfermedad asintomatica, benigna y autolimitada. Todos los que viven en regiones endemicas la han tenido.
-
-- La inmunidad adaptativa detiene la lesion, deja granulomas, fibrosis y calcificaciones.
-
-**Sx**: El 60% de las enfermos son asintomaticos. Primoinfeccion sintomatica se presenta con un sindrome respiratorio agudo (dolor toracico, fiebre, tos seca, cefalea y disnea moderada). Puede acompañar eritema nodoso en piernas,  artralgias.
-
-- Placa muestra infiltrado difuso e imagen reticulonodulillas con adenopatias hiliares.
-- Al resolver puede dejar nodulos denominados: Coccidioidomas.
-- Las formas cronicas son muy similares a TBC pero tienen basiloscopia negativa.
-- Formas diseminadas muestras nodulos cutaneos que reblandecen y ulceran.
-
-**Dx**: A traves de la observacion directa con micologico y serologia IgM por ELISA.
-
-- El hongo tiene radiaciones acidofilas por fuera de la pared celular.
-- Las pruebas de dermorreaccion no son utiles, todos tienen positivo.
-
-**Tx**: **ITRACONAZOL** o fluconazol para pacientes leves y moderados, es por PO.
-
-- En pacientes con formas graves la eleccion es anfotericina B.
-- Se tratan solo las primoinfecciones sintomaticas, los procesos cronicos o las formas diseminadas.
-
-### Histoplasmosis
-
-**Keys**
-
-- Mayor incidencia cerca de cuencas de agua, en regiones fluviales.
-- Afecta a 2/3 del pais, incluyendo los grandes centros urbanos de la pampa humeda.
-
-**Causa**: Por el homgo Histoplasma *capsulatum*. El ingreso es por via inhalatoria.
-
-- No hay transmision persona a persona.
-
-**Evolucion**: Normalmente asintomatica, puede ingresar por via inhalatoria en inmunosuprimidos y diseminar por sistema reticular produciendo enfermedad diseminada.
-
-**Sx**: La mayoria son asintomaticos, puede presentar fiebre y sintomas de enfermedad respiratoria aguda (simil neumonia).
-
-- En inmunosuprimidos deja lesiones focales en mucosa orofaringea y ulceras, especialmente en paladar duro.
-
-**Dx**: Diagnostico con micologico directo y tincion Giemsa. En formas diseminadas puede realizarse hemocultivo en cultivo Sabouraud.
-
-- La tincion con Giemsa tiene una morfologia tipica de casquete porque se tiñe solo un polo.
-
-**Tx**: En formas cronicas o sintomaticas tratar con **ITRACONAZOL**, en formas graves tratar con anfotericina B y corticoides.
-
-- Controlar ABC.
