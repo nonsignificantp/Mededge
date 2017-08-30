@@ -39,6 +39,23 @@ Se debe tener en cuenta tres asppectos:
 
 ### El consentimiento informado.
 
+Documento que expresa la declaracion de voluntad del paciente o de su representante legal luego de haber recibido informacion clara, precisa y adecuada acerca de su salud, el procedimiento, beneficios y riesgos y consecuencias.
+
+Toda actuacion profesional requiere el consentimiento informado siempre que se trate de una practica que implique riesgos o perjuicios.
+
+Es firmado por el paciente si se trata de un mayor de edad en condiciones de hacerlo. No se admite quienes tienen alteracion de la conciencia, tentativa de suicidio, alienados mentales o victimas de accidentes cuya gravedad no admita dilatacion del tratamiento.
+
+Puede ser verbal, pero SIEMPRE sera escrito y firmado por el medico y el paciente (incluir un testigo) en los siguientes casos:
+
+1. Internacion.
+2. Intervencion quirurgica.
+3. Procedimientos diagnosticos y terapeuticos invasivos.
+4. Procedimientos que impliquen riesgos.
+5. Revocacion.
+6. Exposiciones con fines academicos.
+
+No se requiere cuando hay grave peligro para la salud publica, cuando es una situacion de emergencia con peligro para la salud o vida del paciente. Explicitar en la historia clinica.
+
 ### La autonomía y la competencia.
 
 ### Estructura y dinámica.

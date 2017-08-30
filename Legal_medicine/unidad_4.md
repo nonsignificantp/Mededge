@@ -30,6 +30,9 @@ Las normas de redaccion se encuentran en el `articulo 19 de la ley 17.132`. Debe
 Algunos certificados tienen modelos especiales y ya estan preimpresos como los certificados de defuncion y nacimiento. Dentro de la ley consta que certificados de fallecimiento deben consignar datos de identificacion, causa de muerte, diagnostico de ultima enfermedad y otros datos.
 
 ### Certificado falso.
+
+Siempre que el contenido de un certificado no se ajuste a la realidad. Es un **delito doloso** (falsificacion de documentos en el CP, `articulo 295, 296 y 298`). No es un delito de responsabilidad medica porque es doloso, es decir que se QUIERE faltar a la verdad.
+
 ### Obligaciones de su extensión.
 
 ### Los diferentes certificados médicos y su exigencia de acuerdo a las procedencias.
@@ -64,14 +67,43 @@ El certificado de defuncion tiene valos administrativo y epidemiologico.
 ### Certificado de nacimiento y certificado de defunción fetal.
 ### Destino de restos humanos de amputaciones.
 ### Trámite para la inhumación o cremación de restos fetales y cadáveres no reclamados.
+
 ### La Historia Clínica.
+
+Es la exposicion sistematica de acontecimientos de interes, la funcion es guardarlos. Queda constancia de todo lo que se realizo para el diagnostico y tratamiento de enfermedades.
+
+Su primer valor es asistencial y el segundo es probatorio (medico legal). Tambien tiene valor estadistico-epidemiologico y cientifico.
+
+Es un documento privado que puede servir de prueba, es la prueba fundamental a la hora de analizar el accionar y responsabilidad emergente.
+
+Debe ser escrito de manera: cronologica, descriptiva, legible y explicita. Cada intervencion debe estar firmada y sellada. No debe tener tachaduras ni abreviaturas raras (parece que ocultan).
+
+Las partes no estan regidas por una normativa, el modelo queda bajo criterio de quien la confecciona. Minimamente debe tener: datos personales, fecha y hora, motivo de consulta, anamnesis, antecedentes, enfermedad actual, examen fisico, diagnostico, plan diagnostico, plan terapeutico, estudioscomplementarios y resultados, interconsultas, evaluacion prequirurgica, consentimiento informado de cada practica de riesgo, protocolos quirurgicos y anestesicos, evolucion diaria, epicrisis, fecha y hora de egreso, translados.
+
+La confeccion de la HC es obligatoria, reglamentada por la `ley 17.132`. Desde hospitales, prepagas, obras sociales, intitutos, clinicas y maternidades.
+
 ### La trascendencia como documento médico legal. Pertenencia y guarda de la Historia Clínica.
+
+La HC debe guardarse un periodo de 15 años; no puede ser menor a la prescripcion de los reclamos posibles (10 años).
+
+La historia clinica pertenece al paciente y el tiene acceso (`ley 153 de CABA`). Todo paciente debe llevarse un resumen al momento del egreso.
+
+Pueden tener acceso a la historia clinica: medicos del servicio, medicos de interconsulta, medicos de la insitucion en la que esta internado el paciente (investigadores luego de aprobacion del comite de etica), medicos forenses, medicos laboristas de ART, medico legista con orden judicial, fiscales con orden judicial, jueces en funcion. Todos deben cumplir con el **secreto medico**.
+
 ### La Historia Clínica como constancia de la relación médico paciente y de la conducta médica.
+
 ### El valor de la Historia Clínica como prueba en los juicios de responsabilidad profesional.
+
 ### Microfilmación de las Historias Clínicas.
+
 ### La Historia Clínica digitalizada.
+
 ### El comité hospitalario de Historia Clínica.
+
 ### Plazos de conservación de la Historia Clínica: Decreto 6803/88 CABA y Ley 114/99 CABA.
+
 ### Historia Clínica y jurisprudencia.
+
 ### Marco legal: Ley N° 26529: derechos de los pacientes, consentimiento informado e historia clínica y modificatorias: Ley N° 26742/12. DR 1089/12.
+
 ### Ley básica de Salud de la CABA 153/99 y DR 208/01 y DR 2316/03. Ley 26743/12: identidad de género.

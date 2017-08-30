@@ -1,7 +1,7 @@
 # Unidad 1
 Created on 28th August
 
-- [x] Concepto de Medicina Legal.
+### Concepto de Medicina Legal.
 
 Disciplina que usa las ciencias medicas para dar respuestas a cuestiones juridicas. Resuelve problemas que plantea el derecho.
 
@@ -11,23 +11,23 @@ Usa conocimientos juridicos, eticos, medicos y de ciencias afines para mejorar l
 
 La etica estudia los costumbres humanas de hacer el bien y evital el mal. El estudio de la moral es objeto de la etica. La **deontologia medica** es la rama de la deontologia que estudia las normas que debe seguir el medico para ejercer su profesion y su relacion con la sociedad.
 
-- [x] División de la Medicina Legal.
+### División de la Medicina Legal.
 
 La **patologia forense** estudia cuestiones de las lesiones y la muerte, se divide en tanatologia, asfixiologia y lesionologia medico-legal.
 
  Otras ramas son: tocoginecologia forense, psiquiatria forense (imputabilidad, capacidad, insania, toxicomania, emocion violenta), medicina legal social (bulling, mobbin, violencia de genero), crimonilogia, criminalistica y etica medica.
 
-- [x] Relaciones con otras disciplinas.
+### Relaciones con otras disciplinas.
 
 Se relacionca con las ciencias juridicas, la filosofia, quimica, fisica, estadistica, antropologia y sociologia.
 
-- [x] La trascendencia en el ejercicio de la profesión.
+### La trascendencia en el ejercicio de la profesión.
 
 Del dictamen pericial depende la libertad de una persona, su situacion economica, su honor y su capacidad entre otras cosas.
 
 La importancia radica en: la naturaleza de su actuacion, la responsabilidad que su desempeño significa y la obligatoriedad que su funcion encierra.
 
-- [x] El contenido de la reforma de la Constitución Nacional en 1994 y el ejercicio de la profesión.
+### El contenido de la reforma de la Constitución Nacional en 1994 y el ejercicio de la profesión.
 
 Los derechos y garantias se ejercen conforme con la reglamentacion de leyes razonables que imponen limites a la libertad personal y colectiva.
 
@@ -39,7 +39,7 @@ Es el poder judicial quien decide en definitiva que normas son inconstitucionale
 
 La constitucion de 1994 da nacimiento a CABA.
 
-- [] Sistema de gobierno. Principio de Garantía. Organización dela Justicia Nacional.
+### Sistema de gobierno. Principio de Garantía. Organización dela Justicia Nacional.
 
 El gobierno es representativo, republicano y federal. La republica es un sistema politico con division de poderes y control mutuo. Hay publicidad de los actos de gobierno, responsabilidad de funcionarios y periodicidad de los cargos. Todos son iguales ante la ley.
 
@@ -49,7 +49,7 @@ La constitucion y el codigo penal se afianzan del principio de garantia que sost
 
 Existen dos ordenamientos juridicos yuxtapuestos, el nacional y el provincial. En la cima de la jerarquia esta la constitucion nacional y demas normas como leyes, decretos reglamentarios y ordenanzas municipales; todas deben armonizar con las superiores sino son declaradas invalidas.
 
-- [] Jerarquía de los plenarios.
+### Jerarquía de los plenarios.
 
 Las leyes son normas abstractas que regulan los casos futuros que quedan incluidos en sus previsiones.
 
@@ -61,7 +61,7 @@ Las camaras federales existentes son: Camara en lo contencioso administrativo fe
 
 La CN reserva la facultad de dictar el codico civil, el penal y de mineria al congreso nacional (`articulo 67`).
 
-- [] Código de fondo y de forma.
+### Código de fondo y de forma.
 
 El **codigo** es la reunion organica y sistematica de todas las normas juridicas vinculadas con una rama del derecho, constituye un cuerpo unico.
 
@@ -69,8 +69,8 @@ El **codigo de Fondo** contiene reglamentaciones o normas de caracter general.
 
 El **codigo de Forma** o de rito, la especificacion para la instrumentacion de esas normas mediante la articulacion del froceso.
 
-- [] Las instancias.
-- [] Los fueros.
+### Las instancias.
+### Los fueros.
 
 Las organizaciones son: jueces individuales o de primera instancia, jueces de camara (tribunal colegiado constituido por 3 jueces, tambien se denomina a la camara tribunal de alzada) y corte suprema.
 
@@ -78,9 +78,43 @@ Los diferentes fueros dependen de las diferentes competencias: Civil y comercial
 
 El **fuero** es el lugar donde se imparte justicia segun una determinada rama del derecho (civil, penal, laboral). Generalmente se denuncia primero en el FP y luego en el FC.
 
-- [] El Código de Procedimiento en lo penal y civil y los peritos.
-- [] Clasificación de los peritos.
-- [] La designación, la recusación y la excusación.
-- [] El Informe Médico Legal.
-- [] El perito en los Tribunales Orales.
-- [] La función del médico legista como asesor en el medio asistencial y en la Medicina Laboral y Previsional.
+### El Código de Procedimiento en lo penal y civil y los peritos.
+
+Los peritos son profesionales que pueden asesorar a un juez sobre la rama de conocimiento que dominan. Son personas versadas en ciencia que pueden ser requeridos por un juez para esclarecer un hecho.
+
+Asesoran a quien corresponda en calidad de experto. DEntro del juicio es un tercero ajeno a la investigacion. Asesora al juez o magistrado.
+
+Los peritos deben ser profesionales de la medicina con titulo habilitante y de especialista; debe tener conocimiento en la materia y ser imparcial, honesto, objetivo e independiente (**Aspectos juridico, cientifico y moral**).
+
+El perito medico tambien determina: enfermedades laborales, accidentes de trabajo, secuelas psicofisicas e incapacidades.
+
+La impericia, imprudencia, negligencia o inobservancia de los reglamentos y deberes por parte del perito pueden ser sancionados.
+
+Las violaciones pueden ser culposas o dolosas. Puede ser sancionado civilmente o penalmente.
+
+### Clasificación de los peritos.
+
+Pueden ser oficiales (forenses y medicos de la policia cientifica) o no oficiales (de oficio, de parte (fuero penal) o consultores medicos (fuero civil)).
+
+### La designación, la recusación y la excusación.
+
+Los peritos oficiales del cuerpo forense son designados por la corte suprema o tribunal superior de provincias. El perito de oficio es designado por el juez, seleccionado de una lista de inscriptos anual confeccionada por la AMA. La designacion es por sorteo.
+
+No puede ser perito quien este alcanzado por el secreto profesional.
+
+La *excusacion* es dar causas o razones para quedar libre de la designacion impuesta.
+
+La *recusacion* es que las partes den motivos legales para desestimar al perito, para que no actue o para que no forme parte del juicio.
+
+Son causas de *recusacion-excusacion*: parentesco, amistad, familiaridad o frecuencia con algun litigante, enemistad, odio o resentimiento.
+
+### El Informe Médico Legal.
+
+Los peritos dictan una *prueba pericial* (el dictamen). Es un acto pedido por un juez que analiza un hecho determinado y elabora una conclusion. El informe puede ser oral o escrito. La forma oral ocurre en una audiencia o en un juicio oral.
+
+Las partes de la peritacion medico-legal son: Proemio, antecedentes de autos de interes medico-legal, estudio medico-legal, consideraciones medico-legales y conclusiones.
+
+La pericia es una prueba.
+
+### El perito en los Tribunales Orales.
+### La función del médico legista como asesor en el medio asistencial y en la Medicina Laboral y Previsional.
