@@ -106,4 +106,14 @@ Pueden tener acceso a la historia clinica: medicos del servicio, medicos de inte
 
 ### Marco legal: Ley N° 26529: derechos de los pacientes, consentimiento informado e historia clínica y modificatorias: Ley N° 26742/12. DR 1089/12.
 
+El paciente es el titular de la historia clinica, si lo requiere se le debe suministrar una copia de la misma dentro de las 48 hs salvo casos de emergencia.
+
+Forman parte de la historia clinica los consentimientos informados, indicaciones medicas, planillas de enfermeria, protocolos quirurgicos, prescripciones dietarias, estudios, practicas realizadas, rechazadas o abandonadas.
+
+La historia clinica es inviolable, debe ser guardada como minimo 10 años.
+
+Pueden solicitar la historia clinica: paciente, representante legal, conyuge o la union de hecho, medicos.
+
+Si la institucion no entrega la HC se puede realizar un **habeas data**.
+
 ### Ley básica de Salud de la CABA 153/99 y DR 208/01 y DR 2316/03. Ley 26743/12: identidad de género.

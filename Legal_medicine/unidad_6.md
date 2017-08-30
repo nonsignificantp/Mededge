@@ -99,7 +99,35 @@ Para los menores o incapaces juridicos, se puede solicitar la intervencion del m
 ### Su jurisprudencia.
 ### Contraposición de intereses entre padre de menores y el médico.
 ### La protección de personas.
+
+
 ### Derechos de los pacientes.
+
+Reglamentado en la `ley 153 de la CABA`. Incluye mantener el secreto medico, aportar toda la informacion tanto oral como escrita y el consentimiento informado.
+
 ### Su legislación.
+
+
 ### Ley N° 26529: derechos de los pacientes, consentimiento informado e historia clínica y modificatorias: Ley N° 26742/12. DR 1089/12. Ley 26812/13.
+
+La `ley 26742` es la modificacion de **muerte digna** introducida a la ley nacional de derechos del paciente `ley 26529`.
+
+Los pacientes tienen derecho a ser asistidos sin distincion alguna, el profesional queda eximido cuando se hace cargo otro profesional. El trato debe ser digno y respetuoso, la intimidad y la confidencialidad debe ser guardada. El paciente tiene derecho a aceptar o rechazar los procedimientos (autonomia).
+
+De rechazar una terapia no tiene porque dar causas.
+
+Niños tienen derecho a intervenir en la toma de decisiones (`ley 26.061`) de los procedimientos que involucren su vida o su salud (discernimiento y competencia de los menores); pero a fin de cuentas la decision recae en los padres o representantes.
+
+Pacientes terminales pueden rechazar la terapia o reanimacion o retirar medidas de soporte cuando sean extraordinarias o desproporcionadas en relacion a la perspectiva de mejora.
+
+Pacientes tienen derecho a recibir toda la informacion y a su vez pueden ejercer su derecho de NO recibir informacion mediante una declaracion a voluntad por escrito.
+
+El consentimiento informado es la declaracion de voluntad del paciente emitida luego de recibir informacion **clara, precisa y adecuada**. Este es obligatorio y se materializa por escrito. La revocacion tambien es por escrito. Si no fuese posible por escrito, constatar la situacion y que tambien sea firmada por dos testigos.
+
+Se requerira consentimiento si el caso se usa para fines academicos. No lo requiere si es para fines estadisticos-epidemiologicos que no identifican al paciente.
+
+No se aplica el consentimiento si media grave peligro para la salud publica o emergencia, peligra la vida, no puede dar el consentimiento.
+
+Dejar constancia de el tratamiento medico que el paciente revoca.
+
 ### Código de Ética para el Equipo de Salud de la AMA (2001).
