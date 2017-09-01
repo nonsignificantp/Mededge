@@ -11,6 +11,16 @@ Manera del toxico de penetrar las barreras. Las vias principales son inhalatoria
 
 Son parametros de la absorcion: el tamaño de la particula, solubilidad, la carga y la polaridad.
 
+Absorcion por mucosa oral es de adrenalina, cocaina, nitroglicerina, anilina, anestesicos locales, BZD.
+
+La absorcion por mucosa GI deja tiempo de latencia como para intentar el rescate del teoxico ya que la absorcion gastrica es poco significativa y se demora un tiempo en abrirse el piloro.
+
+Por la gran superficie del sistema respiratorio el toxico llega rapidamente a las venas pulmonares. Es la via de anestesicos, vapores, neblinas, nebulizaciones y aerosoloes; tambien humo de TBQ, marihuana, porlvos y otras drogas.
+
+La absorcion por piel dependera del coeficiente agua/aceite y de la humedad. Es la via de la nitroglicerina, anestesicos locales, AINES, estrogeno, anilina, nicotina, alcohol metilico y solventes.
+
+El porcentaje de toxico absorbido se denomina **biodisponibilidad**.
+
 ## Distribucion
 
 Algunos se acumulan en sangre, otros en tejidos. Aquellos que se acumulan en sangre es porque tienen alta afinidad a proteinas como albumina y glicoproteinas o porque son muy solubles en agua y no lipofilicas.
@@ -22,6 +32,14 @@ Toxicos muy lipofilicos tienen un transito corporal extendido y pueden ser detec
 La distribucion puede ser calculada con el volumen de distribucion. Bajos vd representan alta concentracion en el plasma y baja en los tejidos. Alto vd representa alta concentracion en los tejidos y baja en el plasma.
 
 La acumulacion en los tejidos puede llevar a toxicos en dosis no toxicas a conseguir las concentraciones toxicas en el tiempo.
+
+Saber como se distribuye permite saber las medidas de decontaminacion.
+
+En el suero los toxicos pueden llegar a tres sitios: el sitio de accion (biofase), los depositos inertes o el sitio de eliminacion.
+
+1. Deposito en grasa: clorados, barbituricos.
+2. Deposito proteinas tisulares: antipaludicos sinteticos.
+3. Deposito en hueso: plomo, tetraciclinas, fluor
 
 ## Metabolismo
 
@@ -42,6 +60,8 @@ Otra reaccion conjugativa es la sulfonasion por SULT.
 Los toxicos electrofilicos pueden dañar el DNA, las celulas se defienden a traves de sistemas de atrape de nucleofilicos como el **sistema glutation**. El glutation solo tiene tres aa (glutamato, cisteina y glicina). Glutation reacciona con electrofilicos y con RL, forma glutation-disulfuro que es reducido por la *glutation reductasa*.
 
 Otro sistema de atrape de nucleofilicos es la epoxido hidrolasa.
+
+El metabolismo arroja metabolitos con actividad semejante (medazepam a diazepam a lorazepam), aumentar la toxicidad (parathion), producir una toxicidad diferente (alcohol metilico a formaldehido que produce neuritis optica, formaldehido a acido formico; el etilenglicol a acido oxalico que produce hipocalcemia y tubulopatia renal)
 
 ### CYP Superfamily
 
@@ -77,3 +97,7 @@ Los transportes activos de xenobioticos son bombas de la familia ABC o SLC, la p
 El transporte a nivel gastrointestinal ocurre por OATPs (peptidos de transporte de aniones organicos). Para muchas drogas la abilidad de llegar a circulacion portal es contrariada por los transportadores de eflujo denominados **glicoproteina-p** que lleban xenobioticos de vuelta al lumen. gp-P es un transportador ABC.
 
 La gp-P y la CYP3A4 a nivel gastrointestinal forman parte de un mecanismo de defensa que minimizan la absorcion de xenobioticos.
+
+La excrecion renal es la mas frecuente de las formas de eliminacion. La filtracion glomerular puede mejorarse aumentando el volumen de circulacion con hidratacion; poco puede hacerse si la excrecion es a traves de secrecion. Diureticos permiten disminuir la reabsorcion.
+
+Para permitir la eliminacion de xenobioticos con circulacion enterohepatica puede darse secuestrantes del colesterol como la *colesteramina* (en organoclorados) o dar carbon.
