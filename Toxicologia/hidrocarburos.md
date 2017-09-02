@@ -1,0 +1,95 @@
+- - -
+# Hidrocarburos
+
+Son los compuestos quimicos mas simples constituidos por carbono e hidrogeno. Pueden ser de cadenas abierta (**alifaticos**), o de cadenas cerradas (**aromaticos**).
+
+En el grupo de los **alifaticos**, aquellos saturados, es decir que tienen todos sus carbonos ocupados con hidrogenos, se los denomina **alcanos**. Los cuatro primeros alcanos son gaseosos: metanom (gas natural, GNC), etano, propano, butano (gas envasado o de garrafa).
+
+## Alifaticos liquidos
+
+Tienen entre 5 a 17 carbonos; se obtienen de la destilacion del petroleo. Son el kerosen, nafta, bencina, trementina, aguarras, gasoil, diesel, fuel-oil y combustible de avion. Son combustibles, solventes, desengrasantes y abrillantadores.
+
+Se absorben por via inhalatoria (como drogas o en ambientes cerrados), por ingestion (accidentes, suicidio), por via cutanea (derrames), conjuntiva (accidentes). Se concentran en tejidos liposolubles, especialmente SNC.
+
+Son muy escurridisos, volatiles y poco viscosos, la glotis no alcanza para que durante la ingesta pueda bloquear su entrada a los pulmones. Ya que son solventes de lipidos alteran el surfactante y las membranas organicas.
+
+Producen irritacion a necrosis de piel y mucosa, alteran funciones neurologicas y sensibilizan al miocardio al efecto adrenergico.
+
+**Sx**: irritacion gastrointestinal, aspiracion respiratoria (tos, sofocos, hiperreactividad bronquial, neumonitis quimica con rales y sibilancias). Contacto cutaneo produce dermatitis eritematosa o ampollar, congestion de conjuntiva.
+
+- Inhalacion produce rinoconjuntivitis con afeccion respiratoria y neurologica.
+- Debido al daño de los cilios epiteliales del arbol bronquial, puede aparecer una nuemonia oportunista.
+
+**Dx**: conocimiento de los antecedentes, olor y cuadro clinico.
+
+**Wkup**: radiografia de torax, se observa refuerzo de trama y exudados microalgodonosos confluentes. Radiografia de torax puede mostrar un sobrenadante gastrico entre el aire y el contenido gastrico.
+
+**Tx**: si fue una pequeña ingesta, evitar cualquier maniobra para el vomito, realizar ayunas de 4 hs. Si hay signos de hipoxia dar oxigeno humedecido. Monitorear con EKG, no dar ningun adrenergico. Tratar complicaciones respiratorias.
+
+- Descontaminacion es un paso importante; lavar piel y ropas con agua y jabon neutro hasta que desaparezca el olor.
+- De ser necesario intubar, y si existe otra sustancia toxica realizar lavado gastrico.
+
+Hidrocarburos alifaticos de ams de 17 carbonos son mas viscosis, pastosos y solidos y mucho menos toxico. Son aceites y grasas lubricantes, vaselina, alquitran, asfalto, parafina.
+
+## Hidrocarburos aromaticos
+
+Son destilados del petroleo y de la hulla. Los conforman el benzol, benceno, tolueno, xileno.
+
+### Benceno
+
+Liquido volatil de aroma agradable. Se utiliza como solvente, estirante de pinturas, desengrasantes, plasticos, aditivos.
+
+Se absorbe por cualquier via y se concenra en tejido lipidico (SNC, MO, grasa). Se elimina sin modificar por via inhalatoria y luego de metabolismo hepatico por via renal. La vida media es de 20 hs.
+
+Produce lesion en todas las membranas por ser un solvente; y sus metabolitos son mielotoxicos.
+
+**Sx**: irritacion conjuntival, cefaleas, vomitos, disforia, vertigo, depresion del sensorio, ataxia y coma. Puede causar arritmias y dermatitis descamante.
+
+- El cuadro cronico es de comienzo incidioso; la afeccion es la depresion de l a medula osea hematogena de cualquier de sus series. Se resenta con palidez, apatia,cansancio, debilidad, taquicardia, soplos, infecciones bacterianas a repeticion, equimosis, hematonmas espontaneos, hemorragia prolongada. La mielodisplasia puede evolucionar a mielofibrosis o displasias y leucosis mielocitiva a mielomas.
+
+**Tx**: descontaminacion, oxigeno humificado, EKG y manejo sintomatico del cuadro neurologico.
+
+- El tratamiento de las complicaciones hematologicas (**benzolismo**) es resorte del hematologo.
+
+**Prevencion**: Las formas cronicas se previenen determinando fenol en orina y acido fenilmercapturico. Tambien realizar un hemograma con PLQ.
+
+### Tolueno (metilbenceno)
+
+Es un liquido incoloro, olor suave y punzante. Se usa como solvente en pinturas y pegamentos; asi como aditivo en medicamentos, nafta, caucho. Tiene potencial de abuso.
+
+La absorcion es por via inhalatoria, digestiva y cutanea; concentra en tejidos lipidicos. Se elimina sin modificar por via respiratoria y luego de conjugacion hepatica por via renal.
+
+Funcionan alterando las proteinas en neuronas, hepatocitos y tubulos renales. Sensibiliza al miocardio a los adrenergicos.
+
+**Sx**: inhalado causa  nauseas, irritacion conjuntival, quelitis. A nivel del SNC produce excitacion psicomotriz, inquietud, taquilalia, vertigo, temblor, depresion del sensorio, convulsiones, coma.
+
+- Exposicion cronica produce ataxia cerebelosa permanente, temblor, torpeza motora, ansiedad, labilidad emocional, deficit intelectual, polineuropatia periferica, miopatia con arritmias, hepatomegalia y disfuncion hepatica, tubulopatia renal con sindrome de Fanconi.
+
+**Wkup**: pedir *acido hipurico* en orina. Si arritmias, realizar minitoreo cardiaco con EKG.
+
+**Tx**: descontaminacion, contener el compromiso siconeurologico.
+
+**Prevencion**, realizar dosaje de acido hipurico, si elevado determinar funcion hepatica y renal, cardiaca y muscular.
+
+### Xileno
+
+ES un liquido volatir de olor dulzon; se usa como solvente, reina, barniz, perfumes, poliester y explosivos.
+
+Absorcion por via inhalatoria, digestiva y cutanea. Se metaboliza en higado a *acido metilhipurico* y se elimina por orina.
+
+**Sx**: Es irritante de piel y mucosa, produce hemorragia digestiva en la ingesta y depresion del sistema nervioso en la inhalacion.
+
+**Wkup**: pedir *acido metilhipurico* en orina. Realizar dosajes seriados para aquellos que estan expuestos al fin de prevenir.
+
+**Tx**: es sintomatico.
+
+### Aminoderivados (Anilinas)
+
+Se utilizan como pigmentos; son muy liposolubles, se absorben por via inhalatoria, percutanea o digestiva. Se metaboliza en higado a *fenilhidroxiamina* y se excretan por riñon. ESte metabolito produce metahemoglobinemia y las nitrosamidas son **cancerigenas** para el epitelio urinario inferior.
+
+**Sx**: Produce metahemoglobinemia aguda.
+
+- Cifras altas pueden producir anemia hemolitica, esplenomegalia, hiperbilirubinemia, subictericia y litiasis biliar por bilirrubina.
+- Exposicion cronica produce dermatitis o asma por reaccion toxoalergica.
+
+**Wkup**: medir al termino de la jornada laboral la metahemoglobina en los trabajadores.
