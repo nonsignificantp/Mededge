@@ -1,6 +1,8 @@
 - - -
 # Alcohol etilico
 
+Pertenece al grupo de los alcoholes alifaticos de cadena corta; interacciona con elementos polares y no polares; pasa facilmente membranas.
+
 Se obtiene de la fermentacion de azucares. Las bebidas se clasifican en fermentadas, generosas y destiladas.
 
 Las fermetnadas son los vinos (10 - 12%), las cervezas (5 - 6%) y la sidra (3 - 5%). Otras bebidas de fermentacion son la chicha y el sake.
@@ -11,7 +13,7 @@ Se considera beber en exceso cuando un hombre toma ams de 80gr alcohol por dia o
 
 **TxKin**:  La principal via de ingreso es la ingestion, pero puede ingresar por via cutanea o inhalatoria. El 25% se absorbe en el estomago; termina de absorberse en 2 a 6 horas. Atravieza todas las membranas.
 
-- El metabolismo es hepatico con enzimas como la deshidrogenasa, oxidasas y catalasas-peroxidasas.
+- El metabolismo es hepatico con enzimas como la deshidrogenasa, oxidasas y catalasas-peroxidasas (deshidrogenasa, microsomal y catalasas).
 - La alcohol-deshidrogenasa usa como sustrato NAD; es la responsable de la mayor parte del metabolismo hacia acetaldehido.
 - En el varon, la alcohol-DH tambien se encuentra en el estomago.
 - La acetal-dehidodeshidrogenasa lo transforma en acido acetico que ingresa al ciclo de Krebs.
@@ -19,7 +21,7 @@ Se considera beber en exceso cuando un hombre toma ams de 80gr alcohol por dia o
 - El sistema microsomal requiere de NADPH y O2, es altamente inducible.
 - Una pequeña parte se elimina sin metabolizar.
 - Poblaciones orientales tienen mas deficiencia de acetaldehido-DH; se produce una *crisis acetaldehidica* con rubefaccion, cefalea, nausea, vomito, hipotension (simil disulfiram). Tambien puede ser probocado por metronidazol o sulfonamidas.
-
+- Dosis letal es de mas de 5g/L.
 **Alcoholemia**: es en sangre, pero puede recuperarse tambien en orina, LCR, humor vitrio y en aire espirado.
 
 - Consideraciones: no limpiar la piel con alcohol, conservar en un recipiente hermetico, agregar fluoruro de sodio y oxalato, mantener refrigerada.
@@ -47,3 +49,12 @@ Se considera beber en exceso cuando un hombre toma ams de 80gr alcohol por dia o
 3. Controlar la presion arterial y medio interno.
 4. Administra tiamina antes del dextrosado.
 5. Multivitaminas y magnesio.
+
+- Personas sin dependencia etilica ni cronicidad requieren solo de reposo y observacion. Colocar al paciente en decubito lateral izquierdo.
+- En caso de intoxicacion grave: medidas de reanimacion, posicion en decubito lateral izquierdo, tiamina, glucosado, control de temperatura, suero.
+- Si alcoholemia mayor a 300 - 350 mgr/dl (mas de 3 g/L), se puede recurrir a hemodialisis.
+- En casos graves intubar. Vomitos pueden tratarse con metoclopramida.
+
+- Frente a agitacion psicomotriz ofrecer lorazepam o diazepam.
+
+**Cx**: frente a coadministracion con BZD se puede dar flumazenilo. Coadministracion con opiaceos dar naloxona.
