@@ -24,17 +24,32 @@ Cuestionarios para detectar el uso indebido de alcohol son: CAGE y el AUDIT. Est
 
 **Laboratorio**: aumento de transaminasas, preverentemente AST (GOT) y aumento de la GGT.
 
+**DX**: se determina con scores (CAGE > 2, AUDIT > 8, MALT -para bebedores de riesgo con abuso-) y marcadores biologicos (VCM, GGT, GOT/GPT, TG, Ac urico).
+
+- Mediciones directas: alcoholemia; concentracion de transferrina deficiente en hidratos de carbono (queda aumentada luego de consumir mas de 60 g/dia durante una semana).
+- Mediciones indirectas: GGT, GOT (ALT) y GPT (AST), VCM
+
 ## Sindrome de abstinencia alcoholica
 
 Por supresion o reduccion marcada de la ingesta de alcohol. Comienza como un temblor distal de manos, especialmente por la mañana. Progresa comprometiendo el habla y la coordinacion, siguen alucinaciones auditivas, visuales, cenestesicas, zoopsias, exitacion, convulsiones (mayores en las primeras 48 hs) y *delirium tremens*.
 
+- Hay cronica potenciacion del GABA e inhibicion de GLU lo que produce aumento de catecolaminas.
+
 El **delirium tremens** es el cuadro mas severo y menos frecuentede abstinencia alcoholica. Es una emergencia medica que puede ser mortal.
+
+- Aparece 72 - 96 hs desde la suspension de la bebida.
+- Se caracteriza por perdida de atencion y cognicion de manera fluctuante; a veces con alucinaciones asociadas. Dura menos de 7 dias y es potencialmente mortal por hipertermina, arritmias, convulsiones y deterioro de las comorbilidades.
+
+**Dx**: evaluacion de la gravedad de la abstinencia se realiza con la escala *CIWA-Ar*, evalua nauseas-vomito, temblor, alucinaciones visuales, auditivas, tactiles, sudoracion, cefaleas, agitacion, ansiedad y orientacion temporo-espacial.
+
+- El resultado es leve (< 8), moderado (8 - 15) o grave (> 16)
+- CIWA-Ar mayor a 15 predice la aparicion de delirium tremens; especialmente asociado a HTA > 150.
 
 **Tx**: Se basa en el uso de BZD como lorazepam o diazepam. La cantidad es dependiendo de cuanto necesite el paciente para calmarse.
 
 - APSy son menos efectivos que BZD y aumentan umbral convulsivo. Puede usarse **haloperidol** para alucinaciones y agitacion.
-- Dar magnesio.
 - Hiperactividad noradrenergica puede controlarse con clonidina y BB.
 - Evaluar y corregir medio interno, buscar acidosis metabolica e hipoglucemia.
+- Agregar tiamina, acido folico, magnesio, vitamina C (acido ascorbico), B6 y B12. Tambien potasio y fosforo.
 
 Farmacos indicados para evitar las recaidas luego de pasar la abstinencia son **naltrexona** y el acamprosato (aumenta actividad GABA y disminuye GLUt; disminuye el deseo del alcohol). NO dar naltrexona en hepatitis, puede producir heppatotoxicidad.
