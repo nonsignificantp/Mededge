@@ -534,6 +534,12 @@ Se realiza con monoclonales anti-TNFa como el `infliximab`.
    1. Necrosis: Poliarteritis nodosa y Poliangitis microscopica.
    2. Granulomas: Takayasu y Arteritis de la temporal.
    3. Necrosis y granulomas: Poliangitis granulomatosa y Angiitis alergica.
+3. Segun organos afectados
+   1. Sindrome reno-pulmonar: Poliangitis granulomatosa, Poliangitis microscopica, Angiitis alergica.
+   2. Sindrome reno-dermatologico: purpura de Schonlein-Henoch, crioglobulinemia.
+4. Segun fisiopatologia
+   1. Pauciinmune.
+   2. Inmunocomplejos.
 
 ### Poliangitis granulomatosa
 
@@ -608,13 +614,13 @@ Los `glucocorticoides` son efectivos solos. En caso de falla organica agregar `c
 
 ### Poliarteritis nodosa
 
-**Definicion**: Vasculitis **necrotisante multisistemica** de pequeños y medianos vasos. Las caracteristicas principales son:
+**Definicion**: Vasculitis **necrotisante multisistemica** de medianos vasos. Las caracteristicas principales son:
 
-1. No afecta al pulmon.
+1. **No afecta al pulmon**.
 2. Afecta al riñon **sin glomerulonefritis**.
 3. No hay granulomas.
 4. No hay aumento de eosinofilos.
-5. Las lesiones son segmentales e involucran bifurcaciones y ramificaciones.
+5. Las lesiones son segmentales e involucran bifurcaciones y ramificaciones. Producen isquemia y hemorragia.
 6. Multiples aneurismas de un cm de diametro (**microaneurismas**).
 
 **Poblacion**: Ampliamente asociado a **hepatitis B**.
@@ -624,12 +630,16 @@ Los `glucocorticoides` son efectivos solos. En caso de falla organica agregar `c
 #### Sintomas
 
 1. **Constitucionales**: Febricula, anorexia, astenia, perdida de peso.
-2. Renal: Insuficiencia renal, **hipertension arterial**. Isquemia renal sin glomerulonefritis.
-3. Musculoesqueletico: **mialgias** y **altralgias**.
-4. **Mononeuritis multiple**.
-5. **Dolor abdominal** por dolor isquemico mesenterico.
+2. La piel y los nervios son los mas afectados. Purura, livido, nodulos, ulceras y mononeuritis multiforme.
+3. Mayor afectacion sistema gastrointestinal, enfermedad puede manifestarse con **severo dolor abdominal**.
+4. Renal: Insuficiencia renal, **hipertension arterial**. Isquemia renal sin glomerulonefritis e infartos.
+5. Musculoesqueletico: **mialgias** y **altralgias**.
+6. **Mononeuritis multiple**.
+7. **Dolor abdominal** por dolor isquemico mesenterico.
 
 #### Diagnostico
+
+No hay prueba exacta, integra clinica, angiografia y biopsia.
 
 Se realiza biosia o arteriografia para visualizar los vasos en rosario. El pronostico es muy malo tiene mortalidad elevada.
 
